@@ -1298,3 +1298,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 23:11:46.473] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [27Jul2025 23:12:42.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [27Jul2025 23:12:42.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> zzz
+[27Jul2025 23:19:00.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.5.64.212:57957] logged in with entity id 6766 at (885.8882458993152, 66.0, 2558.300000011921)
+[27Jul2025 23:19:00.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[27Jul2025 23:19:00.774] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[27Jul2025 23:19:03.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[27Jul2025 23:19:04.472] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/animation/Transformation$Type
+[27Jul2025 23:19:04.959] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
+[27Jul2025 23:19:05.092] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[27Jul2025 23:19:05.093] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[27Jul2025 23:19:30.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[27Jul2025 23:19:31.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[27Jul2025 23:19:31.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[27Jul2025 23:21:43.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
