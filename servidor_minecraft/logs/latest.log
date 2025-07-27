@@ -1387,3 +1387,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 23:41:43.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
 [27Jul2025 23:41:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
 [27Jul2025 23:41:43.976] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[27Jul2025 23:45:02.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.2.122.146:59657] logged in with entity id 14503 at (-194.232669767746, 141.0, -3307.699999988079)
+[27Jul2025 23:45:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[27Jul2025 23:45:02.818] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[27Jul2025 23:45:03.977] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[27Jul2025 23:45:03.978] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[27Jul2025 23:45:23.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[27Jul2025 23:45:24.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[27Jul2025 23:45:24.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[27Jul2025 23:45:36.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> lauti
+[27Jul2025 23:45:41.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> voy con vos
+[27Jul2025 23:45:45.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautiABC> dale
+[27Jul2025 23:45:55.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautiABC> estoy en la base
+[27Jul2025 23:45:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> unite al grupo
+[27Jul2025 23:46:14.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/5025, l='ServerLevel[world]', x=-155.70, y=139.00, z=-3150.43] died, message: 'Hunter was slain by lautiABC'
+[27Jul2025 23:46:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Bad Deal]
+[27Jul2025 23:46:45.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/5028, l='ServerLevel[world]', x=-195.42, y=143.77, z=-3139.50] died, message: 'Librarian was slain by lautiABC'
+[27Jul2025 23:48:44.082] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[27Jul2025 23:48:44.084] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[27Jul2025 23:49:31.063] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[27Jul2025 23:50:11.739] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[27Jul2025 23:50:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Monster Hunter]
+[27Jul2025 23:51:26.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [The Cutest Predator]
+[27Jul2025 23:53:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Not Today, Thank You]
