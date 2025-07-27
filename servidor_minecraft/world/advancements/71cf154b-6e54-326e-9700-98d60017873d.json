@@ -135,6 +135,7 @@
   "morevillagers:all_villages": {
     "criteria": {
       "taiga": "2025-07-25 22:01:41 +0000",
+      "plains": "2025-07-27 23:33:34 +0000",
       "snowy": "2025-07-25 22:36:08 +0000"
     },
     "done": false
@@ -3207,6 +3208,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-07-27 23:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-27 23:36:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-27 23:36:50 +0000"
     },
     "done": true
   },

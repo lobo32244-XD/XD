@@ -3303,6 +3303,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-07-27 23:33:57 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/hunting_post": {
     "criteria": {
       "has_arrow": "2025-07-27 23:17:23 +0000"
@@ -3360,6 +3366,18 @@
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-07-27 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-27 23:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-27 23:36:08 +0000"
     },
     "done": true
   },
