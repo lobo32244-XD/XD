@@ -5783,3 +5783,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 23:51:26.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [The Cutest Predator]
 [27Jul2025 23:52:45.482] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in graveyard:past
 [27Jul2025 23:53:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Not Today, Thank You]
+[27Jul2025 23:54:02.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:54:02.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 23:54:36.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Ice Bucket Challenge]
+[27Jul2025 23:55:10.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[27Jul2025 23:55:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[27Jul2025 23:55:10.285] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lautiABC
+[27Jul2025 23:55:10.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[27Jul2025 23:55:10.298] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[27Jul2025 23:55:10.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[27Jul2025 23:55:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> zzz
+[27Jul2025 23:55:43.463] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[27Jul2025 23:59:02.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:59:02.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 23:59:13.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[27Jul2025 23:59:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[27Jul2025 23:59:13.840] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of YOUNGDINO07
+[27Jul2025 23:59:13.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[27Jul2025 23:59:13.843] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[27Jul2025 23:59:13.849] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[27Jul2025 23:59:13.876] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[28Jul2025 00:02:11.463] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[28Jul2025 00:04:02.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:04:02.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:04:41.463] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[28Jul2025 00:08:42.463] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[28Jul2025 00:09:02.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:09:02.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:13:02.463] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in graveyard:past
+[28Jul2025 00:14:02.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:14:02.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1410,3 +1410,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 23:50:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Monster Hunter]
 [27Jul2025 23:51:26.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [The Cutest Predator]
 [27Jul2025 23:53:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Not Today, Thank You]
+[27Jul2025 23:54:36.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Ice Bucket Challenge]
+[27Jul2025 23:55:10.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[27Jul2025 23:55:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[27Jul2025 23:55:10.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[27Jul2025 23:55:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> zzz
+[27Jul2025 23:59:13.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[27Jul2025 23:59:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[27Jul2025 23:59:13.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
