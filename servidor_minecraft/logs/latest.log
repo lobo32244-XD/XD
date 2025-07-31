@@ -898,3 +898,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Jul2025 19:17:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -367.500000, 70.000000, -47.500000]
 [31Jul2025 19:18:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Into Darkness]
 [31Jul2025 19:18:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Spectator Mode]
+[31Jul2025 19:36:45.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc timed out
+[31Jul2025 19:36:45.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lobo3224
+[31Jul2025 19:36:45.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[31Jul2025 19:37:04.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[31Jul2025 19:37:04.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[31Jul2025 19:37:04.531] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[31Jul2025 19:37:04.620] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

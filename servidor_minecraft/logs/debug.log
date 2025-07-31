@@ -4329,3 +4329,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Jul2025 19:24:58.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Jul2025 19:29:58.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jul2025 19:29:58.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 19:34:58.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 19:34:58.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 19:36:45.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc timed out
+[31Jul2025 19:36:45.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lobo3224
+[31Jul2025 19:36:45.750] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to lobo3224
+[31Jul2025 19:36:45.750] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with lobo3224
+[31Jul2025 19:36:45.750] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with lobo3224
+[31Jul2025 19:36:45.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[31Jul2025 19:36:45.751] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of b7e5eca9-5a00-3da7-ac51-8f51ef42decc to disconnected: {disabled=false, disconnected=true, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=null}
+[31Jul2025 19:37:04.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[31Jul2025 19:37:04.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[31Jul2025 19:37:04.530] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lobo3224
+[31Jul2025 19:37:04.531] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[31Jul2025 19:37:04.620] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jul2025 19:39:04.763] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[31Jul2025 19:39:58.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 19:39:58.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 19:40:22.763] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in graveyard:past
+[31Jul2025 19:41:44.763] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[31Jul2025 19:43:17.763] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
