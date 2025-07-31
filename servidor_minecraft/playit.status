@@ -1,322 +1,232 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1753920026865 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1753920317331 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920029933 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920320399 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920033005 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920323469 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920036074 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920326533 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920039142 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920329608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920042215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920332677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920045297 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920335739 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920048382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920338826 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920051480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920341908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920054550 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920344981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920057625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920348046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920060689 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920351110 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920063772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920354169 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920066853 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920357228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920069928 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920360297 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920073000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920363363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920076070 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920366441 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920079191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920369541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920082254 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920372610 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920085361 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920375678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920088429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920378739 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920091512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920381800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920094651 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920384857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920097736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920387915 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920100847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920390974 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920103917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920394035 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920107017 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920397113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920110107 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920400182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920113207 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920403256 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920116271 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920406322 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920119341 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920409392 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920122409 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920412452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920125474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920415521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920128559 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920418605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920131629 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920421681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920134689 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920424742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920137779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920427877 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920140848 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920430944 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920143912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920146989 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920150062 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920153124 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920156198 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920159259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920162323 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920165392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920168453 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920171535 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920174609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920177670 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920180739 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920183799 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920186863 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-there-guam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-figure-bacon.gl.at.ply.gg:3049 => 127.0.0.1:3049 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753920189934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753920434028 tunnel running, 2 tunnels registered
 
 
 TUNNELS
